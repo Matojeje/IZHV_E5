@@ -213,6 +213,10 @@ public class Character2DMovement : MonoBehaviour
 	     *   * Rotating a local rotation by an axis: localRotation *= Quaternion.Euler(...)
 	     */
 	    
+	    if (mInput.move.x != 0) mHeadingRight = Math.Sign(mInput.move.x) > 0;
+		
+	    transform.rotation = Quaternion.Euler(0,  mHeadingRight ? 0 : 180,  0);
+	    
 	    var animator = mSelector.charAnimator;
 	    if (animator != null)
 	    {
