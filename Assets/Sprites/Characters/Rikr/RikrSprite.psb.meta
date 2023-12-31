@@ -96,8 +96,8 @@ ScriptedImporter:
   rigSpriteImportData:
   - name: Rikr_Head
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.543021, y: 0.19040698}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -117,8 +117,8 @@ ScriptedImporter:
     spritePosition: {x: 109, y: 548}
   - name: Rikr_Body
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.58003765, y: 0.12403101}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -138,8 +138,8 @@ ScriptedImporter:
     spritePosition: {x: 84, y: 317}
   - name: Rikr_L_Hand
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.79372203, y: 0.8662281}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -159,8 +159,8 @@ ScriptedImporter:
     spritePosition: {x: 12, y: 269}
   - name: Rikr_R_Hand
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.20114942, y: 0.8888889}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -180,13 +180,13 @@ ScriptedImporter:
     spritePosition: {x: 533, y: 311}
   - name: Rikr_L_Leg
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.34353742, y: 0.8654822}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 535
-      y: 4
+      x: 532
+      y: 7
       width: 294
       height: 394
     spriteID: f6adbb8acd8dcfd45bdc742b46d9790f
@@ -201,8 +201,8 @@ ScriptedImporter:
     spritePosition: {x: 183, y: 18}
   - name: Rikr_R_Leg
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
+    pivot: {x: 0.63111115, y: 0.8832487}
+    alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
